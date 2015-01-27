@@ -9,6 +9,6 @@ package abstractioninheritancelab;
  *
  * @author Dan
  */
-public abstract class ShireFolk implements ImagionaryCharacter{
+public abstract class ShireFolk implements FictionalCharacter{
     
 }

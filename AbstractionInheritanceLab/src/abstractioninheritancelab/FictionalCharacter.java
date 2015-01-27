@@ -9,6 +9,6 @@ package abstractioninheritancelab;
  *
  * @author Dan
  */
-public interface ImagionaryCharacter {
+public interface FictionalCharacter {
     
 }
