@@ -9,6 +9,6 @@ package abstractioninheritancelab;
  *
  * @author Dan
  */
-public class Huskey extends Dog{
+public class Husky extends Dog{
     
 }
